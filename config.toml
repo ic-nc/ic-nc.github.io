@@ -1,0 +1,47 @@
+baseURL = "ic-nc.github.io"
+languageCode = "en-us"
+title = "Internationalist Communists - North Carolina"
+theme = ["whiteplain-dark", "whiteplain"]
+ 
+
+[params]
+  showShareIcons = false
+  dateFormat = "2 January 2006"
+
+[params.author]
+ name = "Internationalist Communists - North Carolina"
+ avatar = "/about/icon.png/"
+
+[taxonomies]
+  category = "categories"
+  tags = "tags"
+
+# Header Menu
+[[menu.main]] 
+  name = "Platform"
+  identifier = "platform"
+  url = "/posts/platform/"
+  weight = 1
+[[menu.main]] 
+  name = "Points of Unity"
+  identifier = "unity"
+  url = "/posts/unity/"
+  weight = 2
+[[menu.main]] 
+  name = "Introductory Readings"
+  identifier = "readings"
+  url = "/readings/readings/"
+  weight = 3
+[[menu.main]]
+  name = "About"
+  identifier = "tags"
+  url = "/about/"
+  weight = 4
+
+#Footer Menu
+  [[menu.footer]]
+  name = "About"
+  weight = 1
+  identifier = "about"
+  url = "/about/"
+
