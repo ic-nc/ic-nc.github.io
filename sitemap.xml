@@ -25,12 +25,12 @@
   </url>
   
   <url>
-    <loc>posts/notesonlabor/</loc>
+    <loc>/posts/notesonlabor/</loc>
     <lastmod>2018-12-04T08:08:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>posts/unity/</loc>
+    <loc>/posts/unity/</loc>
     <lastmod>2018-11-24T08:08:44-04:00</lastmod>
   </url>
   
@@ -40,7 +40,7 @@
   </url>
   
   <url>
-    <loc>ic-nc.github.io/readings/</loc>
+    <loc>/readings/</loc>
     <lastmod>2018-10-24T08:08:44-04:00</lastmod>
     <priority>0</priority>
   </url>
