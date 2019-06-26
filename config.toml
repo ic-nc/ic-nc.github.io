@@ -20,28 +20,21 @@ theme = ["whiteplain-dark", "whiteplain"]
 [[menu.main]] 
   name = "Platform"
   identifier = "platform"
-  url = "/posts/platform/"
+  url = "http://ic-nc.github.io/posts/platform/"
   weight = 1
 [[menu.main]] 
   name = "Points of Unity"
   identifier = "unity"
-  url = "/posts/unity/"
+  url = "http://ic-nc.github.io/posts/unity/"
   weight = 2
 [[menu.main]] 
   name = "Introductory Readings"
   identifier = "readings"
-  url = "/readings/readings/"
+  url = "http://ic-nc.github.io/readings/readings/"
   weight = 3
 [[menu.main]]
   name = "About"
   identifier = "tags"
-  url = "/about/"
+  url = "http://ic-nc.github.io/about/"
   weight = 4
-
-#Footer Menu
-  [[menu.footer]]
-  name = "About"
-  weight = 1
-  identifier = "about"
-  url = "/about/"
 
