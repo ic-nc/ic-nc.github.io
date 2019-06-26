@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>ic-nc.github.io/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2019-06-24T08:17:47-04:00</lastmod>
   </url>
   
@@ -14,28 +14,28 @@
   </url>
   
   <url>
-    <loc>ic-nc.github.io/posts/platform/</loc>
+    <loc>posts/platform/</loc>
     <lastmod>2019-06-24T08:08:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>ic-nc.github.io/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2019-06-24T08:08:44-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>ic-nc.github.io/posts/notesonlabor/</loc>
+    <loc>posts/notesonlabor/</loc>
     <lastmod>2018-12-04T08:08:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>ic-nc.github.io/posts/unity/</loc>
+    <loc>posts/unity/</loc>
     <lastmod>2018-11-24T08:08:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>ic-nc.github.io/readings/readings/</loc>
+    <loc>/readings/readings/</loc>
     <lastmod>2018-10-24T08:08:44-04:00</lastmod>
   </url>
   
@@ -46,17 +46,17 @@
   </url>
   
   <url>
-    <loc>ic-nc.github.io/posts/formation/</loc>
+    <loc>/posts/formation/</loc>
     <lastmod>2018-08-03T08:08:44-04:00</lastmod>
   </url>
   
   <url>
-    <loc>ic-nc.github.io/categories/</loc>
+    <loc>categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>ic-nc.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
